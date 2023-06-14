@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm a Computer Science Enthusiast 👨‍💻, Currently pursuing degree in College 👨‍🎓
+I'm a Computer Science Enthusiast 👨‍💻, Recently graduated with a B.Tech degree in CS 🎓
 
 🌱 Currently working, learning and growing my skillset in competitive coding, data structures and algorithms.\
 🔏 Bug bounty hunter in free time.\
