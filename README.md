@@ -56,4 +56,4 @@ Technologies that I've been learning and picked up along my programming journey.
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Vscode](https://img.shields.io/badge/-Vscode-007ACC?style=flat&logo=visual-studio-code)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kogisin/ashesh3)
+![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAshesh3%2FAshesh3&label=Visitors&countColor=%23263759&style=flat)
